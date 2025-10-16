@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Murtuzo!
 
-<!--
-**MurtuzoPM/MurtuzoPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer | Django | Python | Java Enthusiast**
 
-Here are some ideas to get you started:
+🌍 Based in Kyrgyzstan | 💻 Building impactful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 🎓 Student at University of Central Asia
+- 💬 Ask me about **Python, Django, JavaFX, and Web Apps**
+- 🎸 I love playing the guitar and teaching English.
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Murtuzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurtuzoPM&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurtuzoPM&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-link)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+⭐️ *“Code with purpose. Build with passion.”*  
