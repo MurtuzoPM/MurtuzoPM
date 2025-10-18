@@ -9,7 +9,6 @@
 ### 🧠 About Me
 - 🎓 Student at University of Central Asia
 - 💬 Ask me about **Python, Django, JavaFX, and Web Apps**
-- 🎸 I love playing the guitar and teaching English.
 
 ---
 
