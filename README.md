@@ -37,17 +37,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-**Profile Stats:**
-- 📦 12 Public Repositories
-- 👥 3 Followers | Following 12
-- ⭐ 1 Starred Repository
-- 📧 Open to project collaborations
-
-Check out my [repositories](https://github.com/MurtuzoPM?tab=repositories) to see all my work!
-
----
 
 ### 🌟 Featured Projects
 
