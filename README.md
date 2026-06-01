@@ -37,6 +37,21 @@
 
 ---
 
+### 📊 GitHub Activity & Stats
+
+**Profile Stats:**
+- 📦 12 Public Repositories
+- 👥 3 Followers | Following 12
+- ⭐ 1 Starred Repository
+- 📧 Open to project collaborations
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurtuzoPM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurtuzoPM&layout=compact&theme=tokyonight&langs_count=8)
+
+Check out my [repositories](https://github.com/MurtuzoPM?tab=repositories) to see all my work!
+
+---
 
 ### 🌟 Featured Projects
 
@@ -66,9 +81,8 @@ Currently working on exciting projects! Explore my [repositories](https://github
 ---
 
 ### 📈 Let's Collaborate!
-I'm passionate about writing clean, maintainable code and solving real-world problems. If you have an interesting project or need a backend developer, feel free to reach out! I'm always eager to learn and contribute to innovative solutions.
+I'm passionate about writing clean, maintainable code and solving real-world problems. If you have an interesting project or need a backend developer, feel free to reach out! I'm always eager to learn and grow!
 
 ---
 
 ⭐️ *"Code with purpose. Build with passion."*
-
