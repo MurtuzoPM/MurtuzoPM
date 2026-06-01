@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Murtuzo!
+#  Hey, I'm Murtuzo!
 
 🚀 **Full-Stack Backend Developer | Django Specialist | Python & Java Enthusiast**
 
