@@ -45,9 +45,9 @@
 - ⭐ 1 Starred Repository
 - 📧 Open to project collaborations
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurtuzoPM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurtuzoPM&theme=tokyonight)](https://github.com/MurtuzoPM)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurtuzoPM&layout=compact&theme=tokyonight&langs_count=8)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurtuzoPM&theme=tokyonight)](https://github.com/MurtuzoPM)
 
 Check out my [repositories](https://github.com/MurtuzoPM?tab=repositories) to see all my work!
 
@@ -81,7 +81,7 @@ Currently working on exciting projects! Explore my [repositories](https://github
 ---
 
 ### 📈 Let's Collaborate!
-I'm passionate about writing clean, maintainable code and solving real-world problems. If you have an interesting project or need a backend developer, feel free to reach out! I'm always eager to learn and grow!
+I'm passionate about writing clean, maintainable code and solving real-world problems. If you have an interesting project or need a backend developer, feel free to reach out! I'm always eager to learn and contribute!
 
 ---
 
