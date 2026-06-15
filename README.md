@@ -39,11 +39,6 @@
 
 ### 📊 GitHub Activity & Stats
 
-**Profile Stats:**
-- 📦 12 Public Repositories
-- 👥 3 Followers | Following 12
-- ⭐ 1 Starred Repository
-- 📧 Open to project collaborations
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurtuzoPM&theme=tokyonight)](https://github.com/MurtuzoPM)
 
