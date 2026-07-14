@@ -1,21 +1,21 @@
 #  Hey, I'm Murtuzo!
 
-🚀 **Full-Stack Backend Developer | Django Specialist | Python & Java Enthusiast**
+**Backend Developer | Django Specialist | Python & Java Enthusiast**
 
-🌍 Based in Kyrgyzstan 🇰🇬 | 💻 Building scalable, impactful projects | 🎓 Student at University of Central Asia
-
----
-
-### 🧠 About Me
-- 🎓 **Student** at University of Central Asia
-- 💬 **Ask me about:** Python, Django, Django REST Framework, JavaFX, Web Applications, and System Design
-- 🎯 **Passionate about:** Clean code, scalable architecture, and best practices
-- 🌱 **Always learning:** Exploring backend optimization, microservices, and modern web technologies
-- 🤝 **Open to:** Collaborations on interesting projects and open-source contributions
+Based in Kyrgyzstan 🇰🇬 | 💻 Building scalable, impactful projects | 🎓 Student at University of Central Asia
 
 ---
 
-### 🛠️ Tech Stack
+### About Me
+-  **Student** at University of Central Asia
+-  **Ask me about:** Python, Django, Django REST Framework, JavaFX, Web Applications, and System Design
+-  **Passionate about:** Clean code, scalable architecture, and best practices
+-  **Always learning:** Exploring backend optimization, microservices, and modern web technologies
+-  **Open to:** Collaborations on interesting projects and open-source contributions
+
+---
+
+###  Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurtuzoPM&theme=tokyonight)](https://github.com/MurtuzoPM)
