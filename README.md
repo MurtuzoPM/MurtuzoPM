@@ -2,7 +2,7 @@
 
 **Backend Developer | Django Specialist | Python & Java Enthusiast**
 
-Based in Kyrgyzstan 🇰🇬 | 💻 Building scalable, impactful projects | 🎓 Student at University of Central Asia
+Based in Kyrgyzstan 🇰🇬 |  Building scalable, impactful projects |  Student at University of Central Asia
 
 ---
 
